@@ -12,8 +12,16 @@
 body {
     font-family: 'Outfit';
     font-size: 15px;
+    font-weight: 400;
+    background-color: hsl(212, 45%, 89%);
 }
 
 h1 {
     font-family: 'Outfit';
+    font-weight: 700;
+}
+
+.qrsection {
+    background-color: white;
+    padding: 20%;
 }
