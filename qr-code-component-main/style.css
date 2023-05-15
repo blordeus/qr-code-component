@@ -9,15 +9,18 @@
     color: hsl(228, 45%, 44%); 
 }
 
-body {
+ body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qrsection p {
     font-family: 'Outfit';
     font-size: 15px;
     font-weight: 400;
-    background-color: hsl(212, 45%, 89%);
     text-align: center;
 }
 
-h2 {
+.qrsection h2 {
     font-family: 'Outfit';
     font-weight: 700;
     text-align: center;
@@ -35,7 +38,7 @@ h2 {
     align-items: center;
 }
 
-img {
+.qrsection img {
     border-radius: 10px;
     margin: 1%;
     max-width: 576px;
@@ -54,17 +57,6 @@ img {
         display: flex;
         flex-direction: column;
         padding: 10%;
-    }
-
-    img {
-        border-radius: 10px;
-        margin: 1%;
-        max-width: 576px;
-        max-height: 576px;
-    }
-
-    .attribution {
-        padding-top: 10%;
     }
   }
   
