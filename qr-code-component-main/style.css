@@ -3,6 +3,12 @@
 .attribution { 
     font-size: 11px; 
     text-align: center; 
+    padding-top: 10px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: static;
+    height: 20px;
 }
 
 .attribution a { 
@@ -14,18 +20,32 @@ body {
     font-size: 15px;
     font-weight: 400;
     background-color: hsl(212, 45%, 89%);
+    text-align: center;
 }
 
 h1 {
     font-family: 'Outfit';
     font-weight: 700;
+    text-align: center;
 }
 
 .qrsection {
     background-color: white;
-    padding: 10%;
     display: flex;
+    padding: 1% 3% 2% 2%;
     flex-direction: column;
+    flex-wrap: wrap;
     border-radius: 10px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
+img {
+    border-radius: 10px;
+    margin: 1%;
+    max-width: 576px;
+    max-height: 576px;
+    width: auto;
+    height: auto;
+}
