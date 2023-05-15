@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![FireShot Capture 001 - Frontend Mentor - QR code component - 127.0.0.1.png](.media/img_0.png)
+![FireShot Capture 001 - Frontend Mentor - QR code component - 127.0.0.1.png](./images/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%20QR%20code%20component%20-%20127.0.0.1.png)
 
 
 ### Links
