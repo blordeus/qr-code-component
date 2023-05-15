@@ -17,7 +17,7 @@
     font-family: 'Outfit';
     font-size: 15px;
     font-weight: 400;
-    text-align: center;
+        text-align: center;
 }
 
 .qrsection h2 {
@@ -58,6 +58,9 @@
         flex-direction: column;
         padding: 10%;
     }
+    .qrsection img {
+        margin: auto;
+    }
   }
   
   /* On screens that are 375px or less, set the background color to olive */
@@ -67,7 +70,7 @@
         width: auto;
     }
     .qrsection img {
-        object-fit: fit;
+        margin: auto;
     }
     body {
         display: flex;
