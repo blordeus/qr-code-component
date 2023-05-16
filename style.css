@@ -10,7 +10,7 @@
     color: hsl(228, 45%, 44%); 
 }
 
- body {
+ main {
     background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
     display: flex; 
@@ -60,7 +60,7 @@
         margin: auto;
         width: auto;
     }
-    body {
+    main {
         display: flex;
         flex-direction: column;
         padding: 10%;
@@ -79,7 +79,7 @@
     .qrsection img {
         margin: auto;
     }
-    body {
+    main {
         display: flex;
         flex-direction: column;
         padding: 10% 5%;
